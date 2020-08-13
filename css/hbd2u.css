@@ -87,8 +87,8 @@ header p{
 .group {
   zoom: 1;
 }
-Video {
-    width: 400px;
+video {
+    width: 100px;
     height:300px;
     object-fit: contain;
     z-index: -100;
