@@ -87,6 +87,12 @@ header p{
 .group {
   zoom: 1;
 }
+Video {
+    width: 400px;
+    height:300px;
+    object-fit: contain;
+    z-index: -100;
+}
 footer{
     text-align: center;
     padding-top: 20px;
